@@ -1,1 +1,1 @@
-# Analytics_projiect_on_telecom_dataset
+# Analytics_project_on_telecom_dataset
